@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desing-template-desktop-mobile/static/css/main.24e8ea9b.css",
+    "main.js": "/desing-template-desktop-mobile/static/js/main.3fa4b7ec.js",
+    "index.html": "/desing-template-desktop-mobile/index.html",
+    "main.24e8ea9b.css.map": "/desing-template-desktop-mobile/static/css/main.24e8ea9b.css.map",
+    "main.3fa4b7ec.js.map": "/desing-template-desktop-mobile/static/js/main.3fa4b7ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e8ea9b.css",
+    "static/js/main.3fa4b7ec.js"
+  ]
+}
